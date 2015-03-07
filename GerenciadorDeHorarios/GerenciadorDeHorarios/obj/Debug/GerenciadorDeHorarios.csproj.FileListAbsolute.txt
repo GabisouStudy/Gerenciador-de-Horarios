@@ -1,0 +1,9 @@
+C:\Users\patrickpissurno\Documents\GitHub\Gerenciador-de-Horarios\GerenciadorDeHorarios\GerenciadorDeHorarios\bin\Debug\GerenciadorDeHorarios.exe.config
+C:\Users\patrickpissurno\Documents\GitHub\Gerenciador-de-Horarios\GerenciadorDeHorarios\GerenciadorDeHorarios\bin\Debug\GerenciadorDeHorarios.exe
+C:\Users\patrickpissurno\Documents\GitHub\Gerenciador-de-Horarios\GerenciadorDeHorarios\GerenciadorDeHorarios\bin\Debug\GerenciadorDeHorarios.pdb
+C:\Users\patrickpissurno\Documents\GitHub\Gerenciador-de-Horarios\GerenciadorDeHorarios\GerenciadorDeHorarios\obj\Debug\GerenciadorDeHorarios.csprojResolveAssemblyReference.cache
+C:\Users\patrickpissurno\Documents\GitHub\Gerenciador-de-Horarios\GerenciadorDeHorarios\GerenciadorDeHorarios\obj\Debug\GerenciadorDeHorarios.Form1.resources
+C:\Users\patrickpissurno\Documents\GitHub\Gerenciador-de-Horarios\GerenciadorDeHorarios\GerenciadorDeHorarios\obj\Debug\GerenciadorDeHorarios.Properties.Resources.resources
+C:\Users\patrickpissurno\Documents\GitHub\Gerenciador-de-Horarios\GerenciadorDeHorarios\GerenciadorDeHorarios\obj\Debug\GerenciadorDeHorarios.csproj.GenerateResource.Cache
+C:\Users\patrickpissurno\Documents\GitHub\Gerenciador-de-Horarios\GerenciadorDeHorarios\GerenciadorDeHorarios\obj\Debug\GerenciadorDeHorarios.exe
+C:\Users\patrickpissurno\Documents\GitHub\Gerenciador-de-Horarios\GerenciadorDeHorarios\GerenciadorDeHorarios\obj\Debug\GerenciadorDeHorarios.pdb
