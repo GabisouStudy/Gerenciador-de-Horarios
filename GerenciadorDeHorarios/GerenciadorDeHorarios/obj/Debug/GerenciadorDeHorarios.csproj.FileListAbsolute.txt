@@ -7,3 +7,4 @@ C:\Users\patrickpissurno\Documents\GitHub\Gerenciador-de-Horarios\GerenciadorDeH
 C:\Users\patrickpissurno\Documents\GitHub\Gerenciador-de-Horarios\GerenciadorDeHorarios\GerenciadorDeHorarios\obj\Debug\GerenciadorDeHorarios.csproj.GenerateResource.Cache
 C:\Users\patrickpissurno\Documents\GitHub\Gerenciador-de-Horarios\GerenciadorDeHorarios\GerenciadorDeHorarios\obj\Debug\GerenciadorDeHorarios.exe
 C:\Users\patrickpissurno\Documents\GitHub\Gerenciador-de-Horarios\GerenciadorDeHorarios\GerenciadorDeHorarios\obj\Debug\GerenciadorDeHorarios.pdb
+C:\Users\patrickpissurno\Documents\GitHub\Gerenciador-de-Horarios\GerenciadorDeHorarios\GerenciadorDeHorarios\bin\Debug\DragBox.dll
